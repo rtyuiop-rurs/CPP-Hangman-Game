@@ -46,7 +46,7 @@ The game includes these words:
 - beautiful
 - distance
 - luggage
-- skibidi
+- toilet
 
 ## Game Rules
 
